@@ -106,9 +106,6 @@ let swiper = new Swiper(".swiper-container", {
     },
 });
 
-/*==================== TESTIMONIAL ====================*/
-
-
 /*==================== SCROLL SECTIONS ACTIVE LINK ====================*/
 
 
