@@ -197,6 +197,13 @@ img {
   font-weight: var(--font-medium);
 }
 
+.nav__logo {
+  width: 26px;
+  display: flex;
+  justify-items: center;
+  align-items: center;
+}
+
 .nav__logo:hover {
   color: var(--first-color);
 }
